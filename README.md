@@ -6,4 +6,4 @@ _**Co**ding, **Al**gorithm, **Life(pronunciation)** + **Movement** ==> Coalamove
 
 _Have fun with this Hackathon._
 
-_Thank u guys >_<_
+_Thank u guys >\_<_
