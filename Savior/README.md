@@ -1,3 +1,3 @@
 # Our Application Savior
 
-_ Thank you Guys _
+_Thank you Guys_
